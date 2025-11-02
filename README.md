@@ -1,7 +1,7 @@
 # 🤖 让AI构建博客的MCP Server ✨
 
 🎥 **演示视频**  
-https://www.bilibili.com/video/BV1BUydBAEVi/ 👀
+https://www.bilibili.com/video/BV1B2ydBeERd/
 
 ## 🎯 项目介绍
 
